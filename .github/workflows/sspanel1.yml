@@ -1,4 +1,4 @@
-name: sspanel
+name: sspanel1
 
 on:
   workflow_dispatch:
