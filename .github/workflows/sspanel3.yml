@@ -34,7 +34,7 @@ jobs:
         run: |
           node sspanel_checkin.js
         env:
-          SITE_ACCOUNTS: ${{ secrets.SITE_ACCOUNTS2 }}
+          SITE_ACCOUNTS: ${{ secrets.SITE_ACCOUNTS3 }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
